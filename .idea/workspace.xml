@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb214436-cfba-45c8-858d-e73906c08721" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proofity/ST/STRules/STNotImpNb.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proofity/ST/STRules/STNotNotNb.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proofity/ST/STRules/STNotOrNb.cs" afterDir="false" />
-    </list>
+    <list default="true" id="fb214436-cfba-45c8-858d-e73906c08721" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +55,7 @@
       <updated>1719010226337</updated>
       <workItem from="1719010227567" duration="1767000" />
       <workItem from="1719344459578" duration="372000" />
+      <workItem from="1719950830345" duration="1431000" />
     </task>
     <servers />
   </component>
