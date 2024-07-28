@@ -38,6 +38,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proofity" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,6 +61,7 @@
       <workItem from="1719010227567" duration="1767000" />
       <workItem from="1719344459578" duration="372000" />
       <workItem from="1719950830345" duration="1431000" />
+      <workItem from="1720295030394" duration="564000" />
     </task>
     <servers />
   </component>
